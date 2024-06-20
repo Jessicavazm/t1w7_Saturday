@@ -18,3 +18,6 @@
 - Python comes with a lot of modules as well called Python Standard Library
 
 # Packages
+- Collection of modules
+- Organise related modules under one directory
+- __init__ -> You can initialise a package using __init__.py file, this allows you to use the package from any other directory in the program.
