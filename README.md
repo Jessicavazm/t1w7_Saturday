@@ -11,4 +11,10 @@
 - Keyword arguments (name = value, so if you invert the order it won't matter). Very similar to dictionary. 
 
 # Modules
+- One of the techniques for following DRY Coding Principles 
+- Group similar code and functions together in a separate file
+- Solves the problem of code file being to lengthy and complex
+- Can be reused across several programs
+- Python comes with a lot of modules as well called Python Standard Library
 
+# Packages
