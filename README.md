@@ -57,3 +57,5 @@ humans and would allow computers to run it efficiently.
     - Eg: class_eg(Dog)
     - Eg: BankAccount
 
+- 4 Pillars of OOP
+- Encapsulation, Abstraction, Inheritance and Polymorphism
